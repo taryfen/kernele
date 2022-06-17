@@ -1,0 +1,2 @@
+stara-metoda-kernel.tar.gz filter=lfs diff=lfs merge=lfs -text
+nowa-metoda-kernel.tar.gz filter=lfs diff=lfs merge=lfs -text
